@@ -1,0 +1,37 @@
+[
+  {
+    "repository":  "VM12/device_samsung_qcom-common",
+    "target_path": "device/samsung/qcom-common",
+    "branch":      "vm12"
+  },
+  {
+   "repository":   "VM12/device_samsung_msm8974-common",
+    "target_path": "device/samsung/msm8974-common",
+    "branch":      "vm12"
+  },
+  {
+   "repository":   "VM12/device_samsung_klte-common",
+    "target_path": "device/samsung/klte-common",
+    "branch":      "vm12"
+  },
+  {
+   "repository": "VM12/android_device_qcom_common",
+   "target_path": "device/qcom/common",
+   "branch": "vm12"
+  },
+  {
+   "repository": "VM12/android_vendor_samsung",
+   "target_path": "vendor/samsung",
+   "branch": "vm12"
+  },  
+  {
+    "repository":  "VM12/android_kernel_samsung_klte",
+    "target_path": "kernel/samsung/klte",
+    "branch":      "vm12"
+  },
+  {
+    "repository":  "CyanogenMod/android_hardware_samsung",
+    "target_path": "hardware/samsung",
+    "branch":      "cm-12.1"
+  }
+]
